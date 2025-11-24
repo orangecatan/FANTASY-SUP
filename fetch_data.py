@@ -111,6 +111,20 @@ def fetch_schedule_espn(start_date, end_date):
                     if not home_team or not away_team:
                         continue
                     
+                    # Only include NBA teams (filter out preseason opponents)
+                    nba_teams = {
+                        'ATL', 'BOS', 'BKN', 'CHA', 'CHI', 'CLE', 'DAL', 'DEN', 'DET', 'GS',
+                        'HOU', 'IND', 'LAC', 'LAL', 'MEM', 'MIA', 'MIL', 'MIN', 'NO', 'NY',
+                        'OKC', 'ORL', 'PHI', 'PHX', 'POR', 'SA', 'SAC', 'TOR', 'UTAH', 'WSH'
+                    }
+                    
+                    home_abbr = home_team.get('abbreviation', '')
+                    away_abbr = away_team.get('abbreviation', '')
+                    
+                    # Skip if either team is not an NBA team
+                    if home_abbr not in nba_teams or away_abbr not in nba_teams:
+                        continue
+                    
                     # Parse date and convert to ET timezone
                     try:
                         # ESPN returns UTC time, convert to ET
@@ -129,8 +143,8 @@ def fetch_schedule_espn(start_date, end_date):
                     all_games.append({
                         'date': str(game_date_only),
                         'team_id': int(home_team.get('id', 0)),
-                        'team_abbr': home_team.get('abbreviation', ''),
-                        'matchup': f"{home_team.get('abbreviation', '')} vs. {away_team.get('abbreviation', '')}",
+                        'team_abbr': home_abbr,
+                        'matchup': f"{home_abbr} vs. {away_abbr}",
                         'is_home': True
                     })
                     
@@ -138,8 +152,8 @@ def fetch_schedule_espn(start_date, end_date):
                     all_games.append({
                         'date': str(game_date_only),
                         'team_id': int(away_team.get('id', 0)),
-                        'team_abbr': away_team.get('abbreviation', ''),
-                        'matchup': f"{away_team.get('abbreviation', '')} @ {home_team.get('abbreviation', '')}",
+                        'team_abbr': away_abbr,
+                        'matchup': f"{away_abbr} @ {home_abbr}",
                         'is_home': False
                     })
             
@@ -222,10 +236,23 @@ def fetch_player_stats(season='2025-26', date_from=None, label='Season'):
             
             player_tot = player_tot_row.iloc[0]
             
+            # Map NBA Stats API abbreviations to ESPN abbreviations
+            team_abbr_map = {
+                'GSW': 'GS',    # Golden State Warriors
+                'NOP': 'NO',    # New Orleans Pelicans
+                'NYK': 'NY',    # New York Knicks
+                'SAS': 'SA',    # San Antonio Spurs
+                'UTA': 'UTAH',  # Utah Jazz
+                'WAS': 'WSH'    # Washington Wizards
+            }
+            
+            original_team = player_avg['TEAM_ABBREVIATION']
+            mapped_team = team_abbr_map.get(original_team, original_team)
+            
             players_data.append({
                 'player_id': player_id,
                 'name': player_avg['PLAYER_NAME'],
-                'team': player_avg['TEAM_ABBREVIATION'],
+                'team': mapped_team,
                 'gp': int(player_avg['GP']),
                 # Averages
                 'min_avg': float(player_avg['MIN']),
