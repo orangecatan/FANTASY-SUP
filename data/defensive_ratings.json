@@ -1,6 +1,6 @@
 {
   "season": "2025-26",
-  "updated_at": "2025-11-23T23:39:31.742171",
+  "updated_at": "2025-11-24T08:27:10.853201",
   "teams": [
     {
       "team_abbr": "OKC",
@@ -95,7 +95,7 @@
     {
       "team_abbr": "PHI",
       "rank": 19,
-      "def_rating": 114.9
+      "def_rating": 115.2
     },
     {
       "team_abbr": "CHI",

@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2025-11-23T23:39:29.609614",
+  "updated_at": "2025-11-24T08:27:08.070837",
   "games": [
     {
       "date": "2025-10-02",
@@ -15,20 +15,6 @@
       "team_id": 20,
       "team_abbr": "PHI",
       "matchup": "PHI @ NY",
-      "is_home": false
-    },
-    {
-      "date": "2025-10-03",
-      "team_id": 3,
-      "team_abbr": "NO",
-      "matchup": "NO vs. MEL",
-      "is_home": true
-    },
-    {
-      "date": "2025-10-03",
-      "team_id": 111124,
-      "team_abbr": "MEL",
-      "matchup": "MEL @ NO",
       "is_home": false
     },
     {
@@ -61,20 +47,6 @@
     },
     {
       "date": "2025-10-04",
-      "team_id": 17,
-      "team_abbr": "BKN",
-      "matchup": "BKN vs. HAPOEL",
-      "is_home": true
-    },
-    {
-      "date": "2025-10-04",
-      "team_id": 131570,
-      "team_abbr": "HAPOEL",
-      "matchup": "HAPOEL @ BKN",
-      "is_home": false
-    },
-    {
-      "date": "2025-10-04",
       "team_id": 14,
       "team_abbr": "MIA",
       "matchup": "MIA vs. ORL",
@@ -99,20 +71,6 @@
       "team_id": 16,
       "team_abbr": "MIN",
       "matchup": "MIN @ DEN",
-      "is_home": false
-    },
-    {
-      "date": "2025-10-04",
-      "team_id": 3,
-      "team_abbr": "NO",
-      "matchup": "NO vs. ",
-      "is_home": true
-    },
-    {
-      "date": "2025-10-04",
-      "team_id": 126120,
-      "team_abbr": "",
-      "matchup": " @ NO",
       "is_home": false
     },
     {
@@ -183,20 +141,6 @@
       "team_id": 8,
       "team_abbr": "DET",
       "matchup": "DET @ MEM",
-      "is_home": false
-    },
-    {
-      "date": "2025-10-06",
-      "team_id": 24,
-      "team_abbr": "SA",
-      "matchup": "SA vs. GUANGZHOU",
-      "is_home": true
-    },
-    {
-      "date": "2025-10-06",
-      "team_id": 111136,
-      "team_abbr": "GUANGZHOU",
-      "matchup": "GUANGZHOU @ SA",
       "is_home": false
     },
     {
@@ -379,20 +323,6 @@
       "team_id": 30,
       "team_abbr": "CHA",
       "matchup": "CHA @ OKC",
-      "is_home": false
-    },
-    {
-      "date": "2025-10-09",
-      "team_id": 12,
-      "team_abbr": "LAC",
-      "matchup": "LAC vs. GUANGZHOU",
-      "is_home": true
-    },
-    {
-      "date": "2025-10-09",
-      "team_id": 111136,
-      "team_abbr": "GUANGZHOU",
-      "matchup": "GUANGZHOU @ LAC",
       "is_home": false
     },
     {
@@ -645,20 +575,6 @@
       "team_id": 27,
       "team_abbr": "WSH",
       "matchup": "WSH @ NY",
-      "is_home": false
-    },
-    {
-      "date": "2025-10-13",
-      "team_id": 16,
-      "team_abbr": "MIN",
-      "matchup": "MIN vs. GUANGZHOU",
-      "is_home": true
-    },
-    {
-      "date": "2025-10-13",
-      "team_id": 111136,
-      "team_abbr": "GUANGZHOU",
-      "matchup": "GUANGZHOU @ MIN",
       "is_home": false
     },
     {
@@ -5993,104 +5909,6 @@
       "team_id": 24,
       "team_abbr": "SA",
       "matchup": "SA @ NO",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-09",
-      "team_id": -1,
-      "team_abbr": "TBD",
-      "matchup": "TBD vs. TBD",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-09",
-      "team_id": -2,
-      "team_abbr": "TBD",
-      "matchup": "TBD @ TBD",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-09",
-      "team_id": -1,
-      "team_abbr": "TBD",
-      "matchup": "TBD vs. TBD",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-09",
-      "team_id": -2,
-      "team_abbr": "TBD",
-      "matchup": "TBD @ TBD",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-10",
-      "team_id": -1,
-      "team_abbr": "TBD",
-      "matchup": "TBD vs. TBD",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-10",
-      "team_id": -2,
-      "team_abbr": "TBD",
-      "matchup": "TBD @ TBD",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-10",
-      "team_id": -1,
-      "team_abbr": "TBD",
-      "matchup": "TBD vs. TBD",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-10",
-      "team_id": -2,
-      "team_abbr": "TBD",
-      "matchup": "TBD @ TBD",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-13",
-      "team_id": -1,
-      "team_abbr": "TBD",
-      "matchup": "TBD vs. TBD",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-13",
-      "team_id": -2,
-      "team_abbr": "TBD",
-      "matchup": "TBD @ TBD",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-13",
-      "team_id": -1,
-      "team_abbr": "TBD",
-      "matchup": "TBD vs. TBD",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-13",
-      "team_id": -2,
-      "team_abbr": "TBD",
-      "matchup": "TBD @ TBD",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-16",
-      "team_id": -1,
-      "team_abbr": "TBD",
-      "matchup": "TBD vs. TBD",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-16",
-      "team_id": -2,
-      "team_abbr": "TBD",
-      "matchup": "TBD @ TBD",
       "is_home": false
     },
     {
