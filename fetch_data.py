@@ -18,9 +18,9 @@ import time
 DATA_DIR = Path(__file__).parent / 'data'
 DATA_DIR.mkdir(exist_ok=True)
 
-TIMEOUT = 30  # Reduced from 120s
-MAX_RETRIES = 3  # Reduced from 5
-RETRY_DELAY = 3  # Reduced from 5s
+TIMEOUT = 60  # Increased from 30s for better reliability
+MAX_RETRIES = 3
+RETRY_DELAY = 5  # Increased from 3s to give API more recovery time
 
 HEADERS = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36',
