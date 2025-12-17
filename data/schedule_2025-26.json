@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2025-11-24T08:27:08.070837",
+  "updated_at": "2025-12-17T07:19:51.948622",
   "games": [
     {
       "date": "2025-10-02",
@@ -5912,6 +5912,440 @@
       "is_home": false
     },
     {
+      "date": "2025-12-09",
+      "team_id": 19,
+      "team_abbr": "ORL",
+      "matchup": "ORL vs. MIA",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-09",
+      "team_id": 14,
+      "team_abbr": "MIA",
+      "matchup": "MIA @ ORL",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-09",
+      "team_id": 28,
+      "team_abbr": "TOR",
+      "matchup": "TOR vs. NY",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-09",
+      "team_id": 18,
+      "team_abbr": "NY",
+      "matchup": "NY @ TOR",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-10",
+      "team_id": 25,
+      "team_abbr": "OKC",
+      "matchup": "OKC vs. PHX",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-10",
+      "team_id": 21,
+      "team_abbr": "PHX",
+      "matchup": "PHX @ OKC",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-10",
+      "team_id": 13,
+      "team_abbr": "LAL",
+      "matchup": "LAL vs. SA",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-10",
+      "team_id": 24,
+      "team_abbr": "SA",
+      "matchup": "SA @ LAL",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-11",
+      "team_id": 10,
+      "team_abbr": "HOU",
+      "matchup": "HOU vs. LAC",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-11",
+      "team_id": 12,
+      "team_abbr": "LAC",
+      "matchup": "LAC @ HOU",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-11",
+      "team_id": 15,
+      "team_abbr": "MIL",
+      "matchup": "MIL vs. BOS",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-11",
+      "team_id": 2,
+      "team_abbr": "BOS",
+      "matchup": "BOS @ MIL",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-11",
+      "team_id": 3,
+      "team_abbr": "NO",
+      "matchup": "NO vs. POR",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-11",
+      "team_id": 22,
+      "team_abbr": "POR",
+      "matchup": "POR @ NO",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-11",
+      "team_id": 23,
+      "team_abbr": "SAC",
+      "matchup": "SAC vs. DEN",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-11",
+      "team_id": 7,
+      "team_abbr": "DEN",
+      "matchup": "DEN @ SAC",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 30,
+      "team_abbr": "CHA",
+      "matchup": "CHA vs. CHI",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 4,
+      "team_abbr": "CHI",
+      "matchup": "CHI @ CHA",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 8,
+      "team_abbr": "DET",
+      "matchup": "DET vs. ATL",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 1,
+      "team_abbr": "ATL",
+      "matchup": "ATL @ DET",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 20,
+      "team_abbr": "PHI",
+      "matchup": "PHI vs. IND",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 11,
+      "team_abbr": "IND",
+      "matchup": "IND @ PHI",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 27,
+      "team_abbr": "WSH",
+      "matchup": "WSH vs. CLE",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 5,
+      "team_abbr": "CLE",
+      "matchup": "CLE @ WSH",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 29,
+      "team_abbr": "MEM",
+      "matchup": "MEM vs. UTAH",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 26,
+      "team_abbr": "UTAH",
+      "matchup": "UTAH @ MEM",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 6,
+      "team_abbr": "DAL",
+      "matchup": "DAL vs. BKN",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 17,
+      "team_abbr": "BKN",
+      "matchup": "BKN @ DAL",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 9,
+      "team_abbr": "GS",
+      "matchup": "GS vs. MIN",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-12",
+      "team_id": 16,
+      "team_abbr": "MIN",
+      "matchup": "MIN @ GS",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-13",
+      "team_id": 19,
+      "team_abbr": "ORL",
+      "matchup": "ORL vs. NY",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-13",
+      "team_id": 18,
+      "team_abbr": "NY",
+      "matchup": "NY @ ORL",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-13",
+      "team_id": 25,
+      "team_abbr": "OKC",
+      "matchup": "OKC vs. SA",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-13",
+      "team_id": 24,
+      "team_abbr": "SA",
+      "matchup": "SA @ OKC",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 11,
+      "team_abbr": "IND",
+      "matchup": "IND vs. WSH",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 27,
+      "team_abbr": "WSH",
+      "matchup": "WSH @ IND",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 5,
+      "team_abbr": "CLE",
+      "matchup": "CLE vs. CHA",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 30,
+      "team_abbr": "CHA",
+      "matchup": "CHA @ CLE",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 1,
+      "team_abbr": "ATL",
+      "matchup": "ATL vs. PHI",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 20,
+      "team_abbr": "PHI",
+      "matchup": "PHI @ ATL",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 17,
+      "team_abbr": "BKN",
+      "matchup": "BKN vs. MIL",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 15,
+      "team_abbr": "MIL",
+      "matchup": "MIL @ BKN",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 16,
+      "team_abbr": "MIN",
+      "matchup": "MIN vs. SAC",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 23,
+      "team_abbr": "SAC",
+      "matchup": "SAC @ MIN",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 4,
+      "team_abbr": "CHI",
+      "matchup": "CHI vs. NO",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 3,
+      "team_abbr": "NO",
+      "matchup": "NO @ CHI",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 21,
+      "team_abbr": "PHX",
+      "matchup": "PHX vs. LAL",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 13,
+      "team_abbr": "LAL",
+      "matchup": "LAL @ PHX",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 22,
+      "team_abbr": "POR",
+      "matchup": "POR vs. GS",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-14",
+      "team_id": 9,
+      "team_abbr": "GS",
+      "matchup": "GS @ POR",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 2,
+      "team_abbr": "BOS",
+      "matchup": "BOS vs. DET",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 8,
+      "team_abbr": "DET",
+      "matchup": "DET @ BOS",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 14,
+      "team_abbr": "MIA",
+      "matchup": "MIA vs. TOR",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 28,
+      "team_abbr": "TOR",
+      "matchup": "TOR @ MIA",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 26,
+      "team_abbr": "UTAH",
+      "matchup": "UTAH vs. DAL",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 6,
+      "team_abbr": "DAL",
+      "matchup": "DAL @ UTAH",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 7,
+      "team_abbr": "DEN",
+      "matchup": "DEN vs. HOU",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 10,
+      "team_abbr": "HOU",
+      "matchup": "HOU @ DEN",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 12,
+      "team_abbr": "LAC",
+      "matchup": "LAC vs. MEM",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-15",
+      "team_id": 29,
+      "team_abbr": "MEM",
+      "matchup": "MEM @ LAC",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-16",
+      "team_id": 18,
+      "team_abbr": "NY",
+      "matchup": "NY vs. SA",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-16",
+      "team_id": 24,
+      "team_abbr": "SA",
+      "matchup": "SA @ NY",
+      "is_home": false
+    },
+    {
       "date": "2025-12-17",
       "team_id": 4,
       "team_abbr": "CHI",
@@ -5937,34 +6371,6 @@
       "team_id": 29,
       "team_abbr": "MEM",
       "matchup": "MEM @ MIN",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-17",
-      "team_id": 25,
-      "team_abbr": "OKC",
-      "matchup": "OKC vs. LAC",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-17",
-      "team_id": 12,
-      "team_abbr": "LAC",
-      "matchup": "LAC @ OKC",
-      "is_home": false
-    },
-    {
-      "date": "2025-12-17",
-      "team_id": 24,
-      "team_abbr": "SA",
-      "matchup": "SA vs. WSH",
-      "is_home": true
-    },
-    {
-      "date": "2025-12-17",
-      "team_id": 27,
-      "team_abbr": "WSH",
-      "matchup": "WSH @ SA",
       "is_home": false
     },
     {
@@ -6007,6 +6413,34 @@
       "team_id": 14,
       "team_abbr": "MIA",
       "matchup": "MIA @ BKN",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-18",
+      "team_id": 25,
+      "team_abbr": "OKC",
+      "matchup": "OKC vs. LAC",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-18",
+      "team_id": 12,
+      "team_abbr": "LAC",
+      "matchup": "LAC @ OKC",
+      "is_home": false
+    },
+    {
+      "date": "2025-12-18",
+      "team_id": 24,
+      "team_abbr": "SA",
+      "matchup": "SA vs. WSH",
+      "is_home": true
+    },
+    {
+      "date": "2025-12-18",
+      "team_id": 27,
+      "team_abbr": "WSH",
+      "matchup": "WSH @ SA",
       "is_home": false
     },
     {
