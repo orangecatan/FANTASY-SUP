@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2025-12-17T07:19:51.948622",
+  "updated_at": "2025-12-24T07:20:38.965305",
   "games": [
     {
       "date": "2025-10-02",
@@ -8545,20 +8545,6 @@
     },
     {
       "date": "2026-01-07",
-      "team_id": 1,
-      "team_abbr": "ATL",
-      "matchup": "ATL vs. NO",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-07",
-      "team_id": 3,
-      "team_abbr": "NO",
-      "matchup": "NO @ ATL",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-07",
       "team_id": 2,
       "team_abbr": "BOS",
       "matchup": "BOS vs. DEN",
@@ -8569,6 +8555,20 @@
       "team_id": 7,
       "team_abbr": "DEN",
       "matchup": "DEN @ BOS",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-07",
+      "team_id": 1,
+      "team_abbr": "ATL",
+      "matchup": "ATL vs. NO",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-07",
+      "team_id": 3,
+      "team_abbr": "NO",
+      "matchup": "NO @ ATL",
       "is_home": false
     },
     {
@@ -8601,20 +8601,6 @@
     },
     {
       "date": "2026-01-07",
-      "team_id": 24,
-      "team_abbr": "SA",
-      "matchup": "SA vs. LAL",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-07",
-      "team_id": 13,
-      "team_abbr": "LAL",
-      "matchup": "LAL @ SA",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-07",
       "team_id": 29,
       "team_abbr": "MEM",
       "matchup": "MEM vs. PHX",
@@ -8639,6 +8625,20 @@
       "team_id": 26,
       "team_abbr": "UTAH",
       "matchup": "UTAH @ OKC",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-07",
+      "team_id": 24,
+      "team_abbr": "SA",
+      "matchup": "SA vs. LAL",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-07",
+      "team_id": 13,
+      "team_abbr": "LAL",
+      "matchup": "LAL @ SA",
       "is_home": false
     },
     {
