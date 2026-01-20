@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2026-01-05T07:25:22.933279",
+  "updated_at": "2026-01-20T07:23:58.418442",
   "games": [
     {
       "date": "2025-10-02",
@@ -9497,20 +9497,6 @@
     },
     {
       "date": "2026-01-16",
-      "team_id": 17,
-      "team_abbr": "BKN",
-      "matchup": "BKN vs. CHI",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-16",
-      "team_id": 4,
-      "team_abbr": "CHI",
-      "matchup": "CHI @ BKN",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-16",
       "team_id": 11,
       "team_abbr": "IND",
       "matchup": "IND vs. NO",
@@ -9535,6 +9521,20 @@
       "team_id": 5,
       "team_abbr": "CLE",
       "matchup": "CLE @ PHI",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-16",
+      "team_id": 17,
+      "team_abbr": "BKN",
+      "matchup": "BKN vs. CHI",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-16",
+      "team_id": 4,
+      "team_abbr": "CHI",
+      "matchup": "CHI @ BKN",
       "is_home": false
     },
     {
@@ -10295,20 +10295,6 @@
     },
     {
       "date": "2026-01-23",
-      "team_id": 15,
-      "team_abbr": "MIL",
-      "matchup": "MIL vs. DEN",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-23",
-      "team_id": 7,
-      "team_abbr": "DEN",
-      "matchup": "DEN @ MIL",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-23",
       "team_id": 25,
       "team_abbr": "OKC",
       "matchup": "OKC vs. IND",
@@ -10319,6 +10305,20 @@
       "team_id": 11,
       "team_abbr": "IND",
       "matchup": "IND @ OKC",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-23",
+      "team_id": 15,
+      "team_abbr": "MIL",
+      "matchup": "MIL vs. DEN",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-23",
+      "team_id": 7,
+      "team_abbr": "DEN",
+      "matchup": "DEN @ MIL",
       "is_home": false
     },
     {
@@ -10897,6 +10897,20 @@
     },
     {
       "date": "2026-01-29",
+      "team_id": 4,
+      "team_abbr": "CHI",
+      "matchup": "CHI vs. MIA",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-29",
+      "team_id": 14,
+      "team_abbr": "MIA",
+      "matchup": "MIA @ CHI",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-29",
       "team_id": 6,
       "team_abbr": "DAL",
       "matchup": "DAL vs. CHA",
@@ -11023,20 +11037,6 @@
     },
     {
       "date": "2026-01-30",
-      "team_id": 14,
-      "team_abbr": "MIA",
-      "matchup": "MIA vs. CHI",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-30",
-      "team_id": 4,
-      "team_abbr": "CHI",
-      "matchup": "CHI @ MIA",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-30",
       "team_id": 21,
       "team_abbr": "PHX",
       "matchup": "PHX vs. CLE",
@@ -11051,20 +11051,6 @@
     },
     {
       "date": "2026-01-30",
-      "team_id": 26,
-      "team_abbr": "UTAH",
-      "matchup": "UTAH vs. BKN",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-30",
-      "team_id": 17,
-      "team_abbr": "BKN",
-      "matchup": "BKN @ UTAH",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-30",
       "team_id": 7,
       "team_abbr": "DEN",
       "matchup": "DEN vs. LAC",
@@ -11075,6 +11061,20 @@
       "team_id": 12,
       "team_abbr": "LAC",
       "matchup": "LAC @ DEN",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-30",
+      "team_id": 26,
+      "team_abbr": "UTAH",
+      "matchup": "UTAH vs. BKN",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-30",
+      "team_id": 17,
+      "team_abbr": "BKN",
+      "matchup": "BKN @ UTAH",
       "is_home": false
     },
     {
@@ -11131,6 +11131,20 @@
       "team_id": 3,
       "team_abbr": "NO",
       "matchup": "NO @ PHI",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-31",
+      "team_id": 14,
+      "team_abbr": "MIA",
+      "matchup": "MIA vs. CHI",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-31",
+      "team_id": 4,
+      "team_abbr": "CHI",
+      "matchup": "CHI @ MIA",
       "is_home": false
     },
     {
@@ -14831,20 +14845,6 @@
     },
     {
       "date": "2026-03-13",
-      "team_id": 10,
-      "team_abbr": "HOU",
-      "matchup": "HOU vs. NO",
-      "is_home": true
-    },
-    {
-      "date": "2026-03-13",
-      "team_id": 3,
-      "team_abbr": "NO",
-      "matchup": "NO @ HOU",
-      "is_home": false
-    },
-    {
-      "date": "2026-03-13",
       "team_id": 6,
       "team_abbr": "DAL",
       "matchup": "DAL vs. CLE",
@@ -14855,6 +14855,20 @@
       "team_id": 5,
       "team_abbr": "CLE",
       "matchup": "CLE @ DAL",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-13",
+      "team_id": 10,
+      "team_abbr": "HOU",
+      "matchup": "HOU vs. NO",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-13",
+      "team_id": 3,
+      "team_abbr": "NO",
+      "matchup": "NO @ HOU",
       "is_home": false
     },
     {
@@ -17827,20 +17841,6 @@
     },
     {
       "date": "2026-04-10",
-      "team_id": 10,
-      "team_abbr": "HOU",
-      "matchup": "HOU vs. MIN",
-      "is_home": true
-    },
-    {
-      "date": "2026-04-10",
-      "team_id": 16,
-      "team_abbr": "MIN",
-      "matchup": "MIN @ HOU",
-      "is_home": false
-    },
-    {
-      "date": "2026-04-10",
       "team_id": 15,
       "team_abbr": "MIL",
       "matchup": "MIL vs. BKN",
@@ -17869,20 +17869,6 @@
     },
     {
       "date": "2026-04-10",
-      "team_id": 26,
-      "team_abbr": "UTAH",
-      "matchup": "UTAH vs. MEM",
-      "is_home": true
-    },
-    {
-      "date": "2026-04-10",
-      "team_id": 29,
-      "team_abbr": "MEM",
-      "matchup": "MEM @ UTAH",
-      "is_home": false
-    },
-    {
-      "date": "2026-04-10",
       "team_id": 7,
       "team_abbr": "DEN",
       "matchup": "DEN vs. OKC",
@@ -17893,6 +17879,34 @@
       "team_id": 25,
       "team_abbr": "OKC",
       "matchup": "OKC @ DEN",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-10",
+      "team_id": 10,
+      "team_abbr": "HOU",
+      "matchup": "HOU vs. MIN",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-10",
+      "team_id": 16,
+      "team_abbr": "MIN",
+      "matchup": "MIN @ HOU",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-10",
+      "team_id": 26,
+      "team_abbr": "UTAH",
+      "matchup": "UTAH vs. MEM",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-10",
+      "team_id": 29,
+      "team_abbr": "MEM",
+      "matchup": "MEM @ UTAH",
       "is_home": false
     },
     {
