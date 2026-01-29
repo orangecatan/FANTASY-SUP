@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2026-01-20T07:23:58.418442",
+  "updated_at": "2026-01-29T07:37:01.507831",
   "games": [
     {
       "date": "2025-10-02",
@@ -10337,6 +10337,20 @@
     },
     {
       "date": "2026-01-24",
+      "team_id": 30,
+      "team_abbr": "CHA",
+      "matchup": "CHA vs. WSH",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-24",
+      "team_id": 27,
+      "team_abbr": "WSH",
+      "matchup": "WSH @ CHA",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-24",
       "team_id": 20,
       "team_abbr": "PHI",
       "matchup": "PHI vs. NY",
@@ -10361,20 +10375,6 @@
       "team_id": 9,
       "team_abbr": "GS",
       "matchup": "GS @ MIN",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-24",
-      "team_id": 30,
-      "team_abbr": "CHA",
-      "matchup": "CHA vs. WSH",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-24",
-      "team_id": 27,
-      "team_abbr": "WSH",
-      "matchup": "WSH @ CHA",
       "is_home": false
     },
     {
@@ -10463,6 +10463,20 @@
     },
     {
       "date": "2026-01-25",
+      "team_id": 16,
+      "team_abbr": "MIN",
+      "matchup": "MIN vs. GS",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-25",
+      "team_id": 9,
+      "team_abbr": "GS",
+      "matchup": "GS @ MIN",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-25",
       "team_id": 15,
       "team_abbr": "MIL",
       "matchup": "MIL vs. DAL",
@@ -10533,6 +10547,20 @@
     },
     {
       "date": "2026-01-26",
+      "team_id": 1,
+      "team_abbr": "ATL",
+      "matchup": "ATL vs. IND",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-26",
+      "team_id": 11,
+      "team_abbr": "IND",
+      "matchup": "IND @ ATL",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-26",
       "team_id": 30,
       "team_abbr": "CHA",
       "matchup": "CHA vs. PHI",
@@ -10557,20 +10585,6 @@
       "team_id": 19,
       "team_abbr": "ORL",
       "matchup": "ORL @ CLE",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-26",
-      "team_id": 1,
-      "team_abbr": "ATL",
-      "matchup": "ATL vs. IND",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-26",
-      "team_id": 11,
-      "team_abbr": "IND",
-      "matchup": "IND @ ATL",
       "is_home": false
     },
     {
@@ -10967,20 +10981,6 @@
     },
     {
       "date": "2026-01-30",
-      "team_id": 19,
-      "team_abbr": "ORL",
-      "matchup": "ORL vs. TOR",
-      "is_home": true
-    },
-    {
-      "date": "2026-01-30",
-      "team_id": 28,
-      "team_abbr": "TOR",
-      "matchup": "TOR @ ORL",
-      "is_home": false
-    },
-    {
-      "date": "2026-01-30",
       "team_id": 27,
       "team_abbr": "WSH",
       "matchup": "WSH vs. LAL",
@@ -10991,6 +10991,20 @@
       "team_id": 13,
       "team_abbr": "LAL",
       "matchup": "LAL @ WSH",
+      "is_home": false
+    },
+    {
+      "date": "2026-01-30",
+      "team_id": 19,
+      "team_abbr": "ORL",
+      "matchup": "ORL vs. TOR",
+      "is_home": true
+    },
+    {
+      "date": "2026-01-30",
+      "team_id": 28,
+      "team_abbr": "TOR",
+      "matchup": "TOR @ ORL",
       "is_home": false
     },
     {
@@ -13109,20 +13123,6 @@
     },
     {
       "date": "2026-02-24",
-      "team_id": 13,
-      "team_abbr": "LAL",
-      "matchup": "LAL vs. ORL",
-      "is_home": true
-    },
-    {
-      "date": "2026-02-24",
-      "team_id": 19,
-      "team_abbr": "ORL",
-      "matchup": "ORL @ LAL",
-      "is_home": false
-    },
-    {
-      "date": "2026-02-24",
       "team_id": 22,
       "team_abbr": "POR",
       "matchup": "POR vs. MIN",
@@ -13133,6 +13133,20 @@
       "team_id": 16,
       "team_abbr": "MIN",
       "matchup": "MIN @ POR",
+      "is_home": false
+    },
+    {
+      "date": "2026-02-24",
+      "team_id": 13,
+      "team_abbr": "LAL",
+      "matchup": "LAL vs. ORL",
+      "is_home": true
+    },
+    {
+      "date": "2026-02-24",
+      "team_id": 19,
+      "team_abbr": "ORL",
+      "matchup": "ORL @ LAL",
       "is_home": false
     },
     {

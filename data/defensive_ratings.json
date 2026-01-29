@@ -1,6 +1,6 @@
 {
   "season": "2025-26",
-  "updated_at": "2026-01-20T07:24:30.305263",
+  "updated_at": "2026-01-29T07:37:33.370119",
   "teams": [
     {
       "team_abbr": "UNK",
@@ -10,12 +10,12 @@
     {
       "team_abbr": "UNK",
       "rank": 2,
-      "def_rating": 98.2
+      "def_rating": 98.9
     },
     {
       "team_abbr": "UNK",
       "rank": 3,
-      "def_rating": 98.9
+      "def_rating": 99.3
     },
     {
       "team_abbr": "UNK",
@@ -50,22 +50,22 @@
     {
       "team_abbr": "UNK",
       "rank": 10,
-      "def_rating": 103.0
+      "def_rating": 103.2
     },
     {
       "team_abbr": "UNK",
       "rank": 11,
-      "def_rating": 103.2
+      "def_rating": 103.8
     },
     {
       "team_abbr": "OKC",
       "rank": 12,
-      "def_rating": 104.2
+      "def_rating": 104.4
     },
     {
-      "team_abbr": "DET",
+      "team_abbr": "UNK",
       "rank": 13,
-      "def_rating": 107.9
+      "def_rating": 108.0
     },
     {
       "team_abbr": "UNK",
@@ -73,29 +73,29 @@
       "def_rating": 108.2
     },
     {
-      "team_abbr": "UNK",
+      "team_abbr": "DET",
       "rank": 15,
-      "def_rating": 108.4
+      "def_rating": 108.2
     },
     {
       "team_abbr": "UNK",
       "rank": 16,
-      "def_rating": 108.5
+      "def_rating": 108.2
     },
     {
       "team_abbr": "UNK",
       "rank": 17,
-      "def_rating": 108.7
+      "def_rating": 108.2
     },
     {
       "team_abbr": "UNK",
       "rank": 18,
-      "def_rating": 108.8
+      "def_rating": 108.5
     },
     {
       "team_abbr": "UNK",
       "rank": 19,
-      "def_rating": 108.9
+      "def_rating": 108.8
     },
     {
       "team_abbr": "UNK",
@@ -105,12 +105,12 @@
     {
       "team_abbr": "UNK",
       "rank": 21,
-      "def_rating": 109.2
+      "def_rating": 109.1
     },
     {
-      "team_abbr": "UNK",
+      "team_abbr": "SAS",
       "rank": 22,
-      "def_rating": 109.4
+      "def_rating": 109.7
     },
     {
       "team_abbr": "UNK",
@@ -118,64 +118,64 @@
       "def_rating": 109.9
     },
     {
-      "team_abbr": "SAS",
-      "rank": 24,
-      "def_rating": 109.9
-    },
-    {
       "team_abbr": "UNK",
-      "rank": 25,
-      "def_rating": 110.2
+      "rank": 24,
+      "def_rating": 110.0
     },
     {
       "team_abbr": "TOR",
-      "rank": 26,
+      "rank": 25,
       "def_rating": 110.3
+    },
+    {
+      "team_abbr": "MIN",
+      "rank": 26,
+      "def_rating": 110.5
     },
     {
       "team_abbr": "UNK",
       "rank": 27,
-      "def_rating": 110.4
+      "def_rating": 110.6
     },
     {
       "team_abbr": "GSW",
       "rank": 28,
-      "def_rating": 110.8
+      "def_rating": 110.7
     },
     {
-      "team_abbr": "MIN",
+      "team_abbr": "UNK",
       "rank": 29,
-      "def_rating": 111.2
+      "def_rating": 110.9
     },
     {
       "team_abbr": "PHX",
       "rank": 30,
-      "def_rating": 111.3
+      "def_rating": 111.1
     },
     {
       "team_abbr": "DAL",
       "rank": 31,
-      "def_rating": 111.3
+      "def_rating": 111.2
     },
     {
-      "team_abbr": "MIA",
+      "team_abbr": "UNK",
       "rank": 32,
-      "def_rating": 111.7
+      "def_rating": 111.4
     },
     {
       "team_abbr": "UNK",
       "rank": 33,
-      "def_rating": 111.7
-    },
-    {
-      "team_abbr": "PHI",
-      "rank": 34,
-      "def_rating": 111.8
+      "def_rating": 111.6
     },
     {
       "team_abbr": "UNK",
+      "rank": 34,
+      "def_rating": 111.7
+    },
+    {
+      "team_abbr": "MIA",
       "rank": 35,
-      "def_rating": 111.9
+      "def_rating": 111.8
     },
     {
       "team_abbr": "BOS",
@@ -183,194 +183,194 @@
       "def_rating": 112.0
     },
     {
-      "team_abbr": "UNK",
-      "rank": 37,
-      "def_rating": 112.0
-    },
-    {
-      "team_abbr": "UNK",
-      "rank": 38,
-      "def_rating": 112.2
-    },
-    {
       "team_abbr": "HOU",
+      "rank": 37,
+      "def_rating": 112.1
+    },
+    {
+      "team_abbr": "PHI",
+      "rank": 38,
+      "def_rating": 112.4
+    },
+    {
+      "team_abbr": "UNK",
       "rank": 39,
-      "def_rating": 112.3
+      "def_rating": 112.9
+    },
+    {
+      "team_abbr": "CLE",
+      "rank": 40,
+      "def_rating": 112.9
     },
     {
       "team_abbr": "MEM",
-      "rank": 40,
-      "def_rating": 112.5
-    },
-    {
-      "team_abbr": "ORL",
       "rank": 41,
-      "def_rating": 112.7
+      "def_rating": 113.0
     },
     {
       "team_abbr": "UNK",
       "rank": 42,
-      "def_rating": 113.1
+      "def_rating": 113.2
     },
     {
       "team_abbr": "UNK",
       "rank": 43,
-      "def_rating": 113.3
+      "def_rating": 113.2
     },
     {
-      "team_abbr": "UNK",
+      "team_abbr": "ORL",
       "rank": 44,
       "def_rating": 113.4
     },
     {
-      "team_abbr": "CLE",
+      "team_abbr": "NYK",
       "rank": 45,
-      "def_rating": 113.8
+      "def_rating": 113.4
+    },
+    {
+      "team_abbr": "CHA",
+      "rank": 46,
+      "def_rating": 113.4
     },
     {
       "team_abbr": "POR",
-      "rank": 46,
-      "def_rating": 113.9
+      "rank": 47,
+      "def_rating": 113.4
     },
     {
       "team_abbr": "UNK",
-      "rank": 47,
-      "def_rating": 114.1
+      "rank": 48,
+      "def_rating": 113.5
+    },
+    {
+      "team_abbr": "UNK",
+      "rank": 49,
+      "def_rating": 113.8
     },
     {
       "team_abbr": "ATL",
-      "rank": 48,
-      "def_rating": 114.2
-    },
-    {
-      "team_abbr": "LAC",
-      "rank": 49,
-      "def_rating": 114.3
-    },
-    {
-      "team_abbr": "UNK",
       "rank": 50,
-      "def_rating": 114.3
+      "def_rating": 113.8
     },
     {
       "team_abbr": "UNK",
       "rank": 51,
-      "def_rating": 114.3
+      "def_rating": 113.8
+    },
+    {
+      "team_abbr": "LAC",
+      "rank": 52,
+      "def_rating": 113.9
     },
     {
       "team_abbr": "UNK",
-      "rank": 52,
-      "def_rating": 114.4
-    },
-    {
-      "team_abbr": "CHA",
       "rank": 53,
-      "def_rating": 114.5
+      "def_rating": 114.0
     },
     {
       "team_abbr": "UNK",
       "rank": 54,
-      "def_rating": 114.8
+      "def_rating": 114.3
     },
     {
       "team_abbr": "UNK",
       "rank": 55,
-      "def_rating": 115.1
+      "def_rating": 114.4
     },
     {
       "team_abbr": "UNK",
       "rank": 56,
-      "def_rating": 115.2
+      "def_rating": 114.8
     },
     {
-      "team_abbr": "NYK",
+      "team_abbr": "UNK",
       "rank": 57,
       "def_rating": 115.2
     },
     {
-      "team_abbr": "UNK",
+      "team_abbr": "DEN",
       "rank": 58,
-      "def_rating": 115.4
+      "def_rating": 115.3
     },
     {
-      "team_abbr": "LAL",
+      "team_abbr": "UNK",
       "rank": 59,
       "def_rating": 115.4
     },
     {
-      "team_abbr": "DEN",
+      "team_abbr": "LAL",
       "rank": 60,
-      "def_rating": 115.6
+      "def_rating": 115.5
     },
     {
       "team_abbr": "UNK",
       "rank": 61,
-      "def_rating": 115.6
-    },
-    {
-      "team_abbr": "MIL",
-      "rank": 62,
-      "def_rating": 115.6
+      "def_rating": 116.0
     },
     {
       "team_abbr": "IND",
+      "rank": 62,
+      "def_rating": 116.0
+    },
+    {
+      "team_abbr": "UNK",
       "rank": 63,
       "def_rating": 116.0
     },
     {
-      "team_abbr": "UNK",
+      "team_abbr": "MIL",
       "rank": 64,
-      "def_rating": 116.0
-    },
-    {
-      "team_abbr": "BKN",
-      "rank": 65,
       "def_rating": 116.1
     },
     {
       "team_abbr": "UNK",
-      "rank": 66,
+      "rank": 65,
       "def_rating": 116.2
     },
     {
       "team_abbr": "CHI",
-      "rank": 67,
+      "rank": 66,
       "def_rating": 116.5
     },
     {
-      "team_abbr": "SAC",
-      "rank": 68,
-      "def_rating": 116.9
+      "team_abbr": "UNK",
+      "rank": 67,
+      "def_rating": 116.6
     },
     {
-      "team_abbr": "UNK",
-      "rank": 69,
-      "def_rating": 117.0
+      "team_abbr": "BKN",
+      "rank": 68,
+      "def_rating": 116.6
     },
     {
       "team_abbr": "NOP",
+      "rank": 69,
+      "def_rating": 117.5
+    },
+    {
+      "team_abbr": "SAC",
       "rank": 70,
-      "def_rating": 118.0
+      "def_rating": 117.6
+    },
+    {
+      "team_abbr": "UNK",
+      "rank": 71,
+      "def_rating": 118.4
     },
     {
       "team_abbr": "WAS",
-      "rank": 71,
-      "def_rating": 118.8
-    },
-    {
-      "team_abbr": "UTA",
       "rank": 72,
-      "def_rating": 119.9
+      "def_rating": 118.4
     },
     {
       "team_abbr": "UNK",
       "rank": 73,
-      "def_rating": 120.2
+      "def_rating": 119.4
     },
     {
-      "team_abbr": "UNK",
+      "team_abbr": "UTA",
       "rank": 74,
-      "def_rating": 120.5
+      "def_rating": 120.3
     }
   ]
 }
