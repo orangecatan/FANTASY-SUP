@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2026-01-29T07:37:01.507831",
+  "updated_at": "2026-02-23T07:51:40.819494",
   "games": [
     {
       "date": "2025-10-02",
@@ -11205,20 +11205,6 @@
     },
     {
       "date": "2026-02-01",
-      "team_id": 24,
-      "team_abbr": "SA",
-      "matchup": "SA vs. ORL",
-      "is_home": true
-    },
-    {
-      "date": "2026-02-01",
-      "team_id": 19,
-      "team_abbr": "ORL",
-      "matchup": "ORL @ SA",
-      "is_home": false
-    },
-    {
-      "date": "2026-02-01",
       "team_id": 8,
       "team_abbr": "DET",
       "matchup": "DET vs. BKN",
@@ -11299,6 +11285,20 @@
       "team_id": 12,
       "team_abbr": "LAC",
       "matchup": "LAC @ PHX",
+      "is_home": false
+    },
+    {
+      "date": "2026-02-01",
+      "team_id": 24,
+      "team_abbr": "SA",
+      "matchup": "SA vs. ORL",
+      "is_home": true
+    },
+    {
+      "date": "2026-02-01",
+      "team_id": 19,
+      "team_abbr": "ORL",
+      "matchup": "ORL @ SA",
       "is_home": false
     },
     {
@@ -12689,20 +12689,6 @@
     },
     {
       "date": "2026-02-20",
-      "team_id": 13,
-      "team_abbr": "LAL",
-      "matchup": "LAL vs. LAC",
-      "is_home": true
-    },
-    {
-      "date": "2026-02-20",
-      "team_id": 12,
-      "team_abbr": "LAC",
-      "matchup": "LAC @ LAL",
-      "is_home": false
-    },
-    {
-      "date": "2026-02-20",
       "team_id": 22,
       "team_abbr": "POR",
       "matchup": "POR vs. DEN",
@@ -12713,6 +12699,20 @@
       "team_id": 7,
       "team_abbr": "DEN",
       "matchup": "DEN @ POR",
+      "is_home": false
+    },
+    {
+      "date": "2026-02-20",
+      "team_id": 13,
+      "team_abbr": "LAL",
+      "matchup": "LAL vs. LAC",
+      "is_home": true
+    },
+    {
+      "date": "2026-02-20",
+      "team_id": 12,
+      "team_abbr": "LAC",
+      "matchup": "LAC @ LAL",
       "is_home": false
     },
     {
@@ -13599,20 +13599,6 @@
     },
     {
       "date": "2026-03-01",
-      "team_id": 2,
-      "team_abbr": "BOS",
-      "matchup": "BOS vs. PHI",
-      "is_home": true
-    },
-    {
-      "date": "2026-03-01",
-      "team_id": 20,
-      "team_abbr": "PHI",
-      "matchup": "PHI @ BOS",
-      "is_home": false
-    },
-    {
-      "date": "2026-03-01",
       "team_id": 19,
       "team_abbr": "ORL",
       "matchup": "ORL vs. DET",
@@ -13623,6 +13609,20 @@
       "team_id": 8,
       "team_abbr": "DET",
       "matchup": "DET @ ORL",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-01",
+      "team_id": 2,
+      "team_abbr": "BOS",
+      "matchup": "BOS vs. PHI",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-01",
+      "team_id": 20,
+      "team_abbr": "PHI",
+      "matchup": "PHI @ BOS",
       "is_home": false
     },
     {
@@ -14355,20 +14355,6 @@
     },
     {
       "date": "2026-03-08",
-      "team_id": 21,
-      "team_abbr": "PHX",
-      "matchup": "PHX vs. CHA",
-      "is_home": true
-    },
-    {
-      "date": "2026-03-08",
-      "team_id": 30,
-      "team_abbr": "CHA",
-      "matchup": "CHA @ PHX",
-      "is_home": false
-    },
-    {
-      "date": "2026-03-08",
       "team_id": 22,
       "team_abbr": "POR",
       "matchup": "POR vs. IND",
@@ -14393,6 +14379,20 @@
       "team_id": 4,
       "team_abbr": "CHI",
       "matchup": "CHI @ SAC",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-08",
+      "team_id": 21,
+      "team_abbr": "PHX",
+      "matchup": "PHX vs. CHA",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-08",
+      "team_id": 30,
+      "team_abbr": "CHA",
+      "matchup": "CHA @ PHX",
       "is_home": false
     },
     {
@@ -14775,6 +14775,20 @@
     },
     {
       "date": "2026-03-12",
+      "team_id": 29,
+      "team_abbr": "MEM",
+      "matchup": "MEM vs. DAL",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-12",
+      "team_id": 6,
+      "team_abbr": "DAL",
+      "matchup": "DAL @ MEM",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-12",
       "team_id": 24,
       "team_abbr": "SA",
       "matchup": "SA vs. DEN",
@@ -14957,6 +14971,20 @@
     },
     {
       "date": "2026-03-14",
+      "team_id": 24,
+      "team_abbr": "SA",
+      "matchup": "SA vs. CHA",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-14",
+      "team_id": 30,
+      "team_abbr": "CHA",
+      "matchup": "CHA @ SA",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-14",
       "team_id": 2,
       "team_abbr": "BOS",
       "matchup": "BOS vs. WSH",
@@ -14981,20 +15009,6 @@
       "team_id": 19,
       "team_abbr": "ORL",
       "matchup": "ORL @ MIA",
-      "is_home": false
-    },
-    {
-      "date": "2026-03-14",
-      "team_id": 24,
-      "team_abbr": "SA",
-      "matchup": "SA vs. CHA",
-      "is_home": true
-    },
-    {
-      "date": "2026-03-14",
-      "team_id": 30,
-      "team_abbr": "CHA",
-      "matchup": "CHA @ SA",
       "is_home": false
     },
     {
@@ -15405,20 +15419,6 @@
     },
     {
       "date": "2026-03-18",
-      "team_id": 29,
-      "team_abbr": "MEM",
-      "matchup": "MEM vs. NY",
-      "is_home": true
-    },
-    {
-      "date": "2026-03-18",
-      "team_id": 18,
-      "team_abbr": "NY",
-      "matchup": "NY @ MEM",
-      "is_home": false
-    },
-    {
-      "date": "2026-03-18",
       "team_id": 16,
       "team_abbr": "MIN",
       "matchup": "MIN vs. UTAH",
@@ -15443,6 +15443,20 @@
       "team_id": 12,
       "team_abbr": "LAC",
       "matchup": "LAC @ NO",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-18",
+      "team_id": 29,
+      "team_abbr": "MEM",
+      "matchup": "MEM vs. DEN",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-18",
+      "team_id": 7,
+      "team_abbr": "DEN",
+      "matchup": "DEN @ MEM",
       "is_home": false
     },
     {
@@ -15881,20 +15895,6 @@
     },
     {
       "date": "2026-03-23",
-      "team_id": 1,
-      "team_abbr": "ATL",
-      "matchup": "ATL vs. MEM",
-      "is_home": true
-    },
-    {
-      "date": "2026-03-23",
-      "team_id": 29,
-      "team_abbr": "MEM",
-      "matchup": "MEM @ ATL",
-      "is_home": false
-    },
-    {
-      "date": "2026-03-23",
       "team_id": 8,
       "team_abbr": "DET",
       "matchup": "DET vs. LAL",
@@ -15947,6 +15947,20 @@
       "team_id": 24,
       "team_abbr": "SA",
       "matchup": "SA @ MIA",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-23",
+      "team_id": 1,
+      "team_abbr": "ATL",
+      "matchup": "ATL vs. MEM",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-23",
+      "team_id": 29,
+      "team_abbr": "MEM",
+      "matchup": "MEM @ ATL",
       "is_home": false
     },
     {
@@ -16805,6 +16819,20 @@
     },
     {
       "date": "2026-03-31",
+      "team_id": 15,
+      "team_abbr": "MIL",
+      "matchup": "MIL vs. DAL",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-31",
+      "team_id": 6,
+      "team_abbr": "DAL",
+      "matchup": "DAL @ MIL",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-31",
       "team_id": 13,
       "team_abbr": "LAL",
       "matchup": "LAL vs. CLE",
@@ -16875,6 +16903,20 @@
     },
     {
       "date": "2026-04-01",
+      "team_id": 29,
+      "team_abbr": "MEM",
+      "matchup": "MEM vs. NY",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-01",
+      "team_id": 18,
+      "team_abbr": "NY",
+      "matchup": "NY @ MEM",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-01",
       "team_id": 28,
       "team_abbr": "TOR",
       "matchup": "TOR vs. SAC",
@@ -16913,20 +16955,6 @@
       "team_id": 15,
       "team_abbr": "MIL",
       "matchup": "MIL @ HOU",
-      "is_home": false
-    },
-    {
-      "date": "2026-04-01",
-      "team_id": 29,
-      "team_abbr": "MEM",
-      "matchup": "MEM vs. DAL",
-      "is_home": true
-    },
-    {
-      "date": "2026-04-01",
-      "team_id": 6,
-      "team_abbr": "DAL",
-      "matchup": "DAL @ MEM",
       "is_home": false
     },
     {
@@ -17617,20 +17645,6 @@
     },
     {
       "date": "2026-04-08",
-      "team_id": 24,
-      "team_abbr": "SA",
-      "matchup": "SA vs. POR",
-      "is_home": true
-    },
-    {
-      "date": "2026-04-08",
-      "team_id": 22,
-      "team_abbr": "POR",
-      "matchup": "POR @ SA",
-      "is_home": false
-    },
-    {
-      "date": "2026-04-08",
       "team_id": 7,
       "team_abbr": "DEN",
       "matchup": "DEN vs. MEM",
@@ -17641,6 +17655,20 @@
       "team_id": 29,
       "team_abbr": "MEM",
       "matchup": "MEM @ DEN",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-08",
+      "team_id": 24,
+      "team_abbr": "SA",
+      "matchup": "SA vs. POR",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-08",
+      "team_id": 22,
+      "team_abbr": "POR",
+      "matchup": "POR @ SA",
       "is_home": false
     },
     {
