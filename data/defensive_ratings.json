@@ -1,6 +1,6 @@
 {
   "season": "2025-26",
-  "updated_at": "2026-02-23T07:52:04.578211",
+  "updated_at": "2026-02-24T07:49:08.976308",
   "teams": [
     {
       "team_abbr": "OKC",
@@ -15,7 +15,7 @@
     {
       "team_abbr": "SAS",
       "rank": 3,
-      "def_rating": 110.7
+      "def_rating": 110.5
     },
     {
       "team_abbr": "MIA",
@@ -23,14 +23,14 @@
       "def_rating": 111.3
     },
     {
-      "team_abbr": "TOR",
+      "team_abbr": "HOU",
       "rank": 5,
-      "def_rating": 111.7
+      "def_rating": 111.6
     },
     {
-      "team_abbr": "HOU",
+      "team_abbr": "TOR",
       "rank": 6,
-      "def_rating": 112.0
+      "def_rating": 111.7
     },
     {
       "team_abbr": "BOS",
@@ -95,7 +95,7 @@
     {
       "team_abbr": "MEM",
       "rank": 19,
-      "def_rating": 115.5
+      "def_rating": 115.6
     },
     {
       "team_abbr": "LAC",
@@ -138,19 +138,19 @@
       "def_rating": 118.1
     },
     {
-      "team_abbr": "WAS",
+      "team_abbr": "SAC",
       "rank": 28,
-      "def_rating": 120.0
+      "def_rating": 119.9
     },
     {
-      "team_abbr": "SAC",
+      "team_abbr": "WAS",
       "rank": 29,
-      "def_rating": 120.1
+      "def_rating": 120.0
     },
     {
       "team_abbr": "UTA",
       "rank": 30,
-      "def_rating": 120.8
+      "def_rating": 120.7
     }
   ]
 }
