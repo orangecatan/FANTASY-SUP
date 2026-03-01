@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2026-02-24T07:48:50.157285",
+  "updated_at": "2026-03-01T07:29:48.574376",
   "games": [
     {
       "date": "2025-10-02",
@@ -16455,6 +16455,20 @@
     },
     {
       "date": "2026-03-28",
+      "team_id": 16,
+      "team_abbr": "MIN",
+      "matchup": "MIN vs. DET",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-28",
+      "team_id": 8,
+      "team_abbr": "DET",
+      "matchup": "DET @ MIN",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-28",
       "team_id": 30,
       "team_abbr": "CHA",
       "matchup": "CHA vs. PHI",
@@ -16493,20 +16507,6 @@
       "team_id": 4,
       "team_abbr": "CHI",
       "matchup": "CHI @ MEM",
-      "is_home": false
-    },
-    {
-      "date": "2026-03-28",
-      "team_id": 16,
-      "team_abbr": "MIN",
-      "matchup": "MIN vs. DET",
-      "is_home": true
-    },
-    {
-      "date": "2026-03-28",
-      "team_id": 8,
-      "team_abbr": "DET",
-      "matchup": "DET @ MIN",
       "is_home": false
     },
     {

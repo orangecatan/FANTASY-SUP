@@ -1,61 +1,61 @@
 {
   "season": "2025-26",
-  "updated_at": "2026-02-24T07:49:08.976308",
+  "updated_at": "2026-03-01T07:30:17.920911",
   "teams": [
     {
       "team_abbr": "OKC",
       "rank": 1,
-      "def_rating": 106.1
+      "def_rating": 106.3
     },
     {
       "team_abbr": "DET",
       "rank": 2,
-      "def_rating": 108.3
+      "def_rating": 108.5
     },
     {
       "team_abbr": "SAS",
       "rank": 3,
-      "def_rating": 110.5
+      "def_rating": 110.4
     },
     {
       "team_abbr": "MIA",
       "rank": 4,
-      "def_rating": 111.3
+      "def_rating": 111.5
     },
     {
       "team_abbr": "HOU",
       "rank": 5,
-      "def_rating": 111.6
+      "def_rating": 111.7
     },
     {
       "team_abbr": "TOR",
       "rank": 6,
-      "def_rating": 111.7
+      "def_rating": 112.0
     },
     {
       "team_abbr": "BOS",
       "rank": 7,
-      "def_rating": 112.2
-    },
-    {
-      "team_abbr": "PHX",
-      "rank": 8,
-      "def_rating": 112.5
-    },
-    {
-      "team_abbr": "GSW",
-      "rank": 9,
-      "def_rating": 112.6
+      "def_rating": 112.1
     },
     {
       "team_abbr": "MIN",
-      "rank": 10,
-      "def_rating": 112.6
+      "rank": 8,
+      "def_rating": 112.4
     },
     {
       "team_abbr": "NYK",
-      "rank": 11,
+      "rank": 9,
+      "def_rating": 112.5
+    },
+    {
+      "team_abbr": "PHX",
+      "rank": 10,
       "def_rating": 112.7
+    },
+    {
+      "team_abbr": "GSW",
+      "rank": 11,
+      "def_rating": 112.8
     },
     {
       "team_abbr": "CLE",
@@ -65,87 +65,87 @@
     {
       "team_abbr": "ORL",
       "rank": 13,
-      "def_rating": 113.4
+      "def_rating": 113.5
     },
     {
       "team_abbr": "DAL",
       "rank": 14,
-      "def_rating": 113.6
-    },
-    {
-      "team_abbr": "PHI",
-      "rank": 15,
-      "def_rating": 114.4
+      "def_rating": 113.9
     },
     {
       "team_abbr": "ATL",
+      "rank": 15,
+      "def_rating": 113.9
+    },
+    {
+      "team_abbr": "PHI",
       "rank": 16,
-      "def_rating": 114.7
+      "def_rating": 114.2
     },
     {
       "team_abbr": "CHA",
       "rank": 17,
-      "def_rating": 115.1
+      "def_rating": 114.5
     },
     {
       "team_abbr": "POR",
       "rank": 18,
-      "def_rating": 115.5
-    },
-    {
-      "team_abbr": "MEM",
-      "rank": 19,
-      "def_rating": 115.6
+      "def_rating": 115.4
     },
     {
       "team_abbr": "LAC",
+      "rank": 19,
+      "def_rating": 115.4
+    },
+    {
+      "team_abbr": "DEN",
       "rank": 20,
       "def_rating": 115.7
     },
     {
-      "team_abbr": "IND",
+      "team_abbr": "MEM",
       "rank": 21,
-      "def_rating": 116.1
+      "def_rating": 115.7
     },
     {
-      "team_abbr": "DEN",
+      "team_abbr": "IND",
       "rank": 22,
-      "def_rating": 116.3
-    },
-    {
-      "team_abbr": "MIL",
-      "rank": 23,
       "def_rating": 116.5
     },
     {
       "team_abbr": "LAL",
+      "rank": 23,
+      "def_rating": 116.6
+    },
+    {
+      "team_abbr": "MIL",
       "rank": 24,
       "def_rating": 116.7
     },
     {
       "team_abbr": "CHI",
       "rank": 25,
-      "def_rating": 117.2
-    },
-    {
-      "team_abbr": "BKN",
-      "rank": 26,
       "def_rating": 117.4
     },
     {
       "team_abbr": "NOP",
+      "rank": 26,
+      "def_rating": 117.6
+    },
+    {
+      "team_abbr": "BKN",
       "rank": 27,
-      "def_rating": 118.1
+      "def_rating": 118.4
     },
     {
       "team_abbr": "SAC",
       "rank": 28,
-      "def_rating": 119.9
+      "def_rating": 120.1
     },
     {
       "team_abbr": "WAS",
       "rank": 29,
-      "def_rating": 120.0
+      "def_rating": 120.1
     },
     {
       "team_abbr": "UTA",
