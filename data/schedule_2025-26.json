@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2026-03-01T07:29:48.574376",
+  "updated_at": "2026-03-06T07:35:27.391291",
   "games": [
     {
       "date": "2025-10-02",
@@ -15447,20 +15447,6 @@
     },
     {
       "date": "2026-03-18",
-      "team_id": 29,
-      "team_abbr": "MEM",
-      "matchup": "MEM vs. DEN",
-      "is_home": true
-    },
-    {
-      "date": "2026-03-18",
-      "team_id": 7,
-      "team_abbr": "DEN",
-      "matchup": "DEN @ MEM",
-      "is_home": false
-    },
-    {
-      "date": "2026-03-18",
       "team_id": 6,
       "team_abbr": "DAL",
       "matchup": "DAL vs. ATL",
@@ -15471,6 +15457,20 @@
       "team_id": 1,
       "team_abbr": "ATL",
       "matchup": "ATL @ DAL",
+      "is_home": false
+    },
+    {
+      "date": "2026-03-18",
+      "team_id": 29,
+      "team_abbr": "MEM",
+      "matchup": "MEM vs. DEN",
+      "is_home": true
+    },
+    {
+      "date": "2026-03-18",
+      "team_id": 7,
+      "team_abbr": "DEN",
+      "matchup": "DEN @ MEM",
       "is_home": false
     },
     {
