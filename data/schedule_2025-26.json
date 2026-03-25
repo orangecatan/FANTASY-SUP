@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2026-03-12T07:42:44.524959",
+  "updated_at": "2026-03-25T07:50:17.349471",
   "games": [
     {
       "date": "2025-10-02",
@@ -16875,20 +16875,6 @@
     },
     {
       "date": "2026-04-01",
-      "team_id": 14,
-      "team_abbr": "MIA",
-      "matchup": "MIA vs. BOS",
-      "is_home": true
-    },
-    {
-      "date": "2026-04-01",
-      "team_id": 2,
-      "team_abbr": "BOS",
-      "matchup": "BOS @ MIA",
-      "is_home": false
-    },
-    {
-      "date": "2026-04-01",
       "team_id": 19,
       "team_abbr": "ORL",
       "matchup": "ORL vs. ATL",
@@ -16899,6 +16885,20 @@
       "team_id": 1,
       "team_abbr": "ATL",
       "matchup": "ATL @ ORL",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-01",
+      "team_id": 14,
+      "team_abbr": "MIA",
+      "matchup": "MIA vs. BOS",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-01",
+      "team_id": 2,
+      "team_abbr": "BOS",
+      "matchup": "BOS @ MIA",
       "is_home": false
     },
     {
@@ -17477,16 +17477,16 @@
     },
     {
       "date": "2026-04-07",
-      "team_id": 2,
-      "team_abbr": "BOS",
-      "matchup": "BOS vs. CHA",
+      "team_id": 11,
+      "team_abbr": "IND",
+      "matchup": "IND vs. MIN",
       "is_home": true
     },
     {
       "date": "2026-04-07",
-      "team_id": 30,
-      "team_abbr": "CHA",
-      "matchup": "CHA @ BOS",
+      "team_id": 16,
+      "team_abbr": "MIN",
+      "matchup": "MIN @ IND",
       "is_home": false
     },
     {
@@ -17519,16 +17519,16 @@
     },
     {
       "date": "2026-04-07",
-      "team_id": 11,
-      "team_abbr": "IND",
-      "matchup": "IND vs. MIN",
+      "team_id": 2,
+      "team_abbr": "BOS",
+      "matchup": "BOS vs. CHA",
       "is_home": true
     },
     {
       "date": "2026-04-07",
-      "team_id": 16,
-      "team_abbr": "MIN",
-      "matchup": "MIN @ IND",
+      "team_id": 30,
+      "team_abbr": "CHA",
+      "matchup": "CHA @ BOS",
       "is_home": false
     },
     {
