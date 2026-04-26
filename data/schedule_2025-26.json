@@ -1,7 +1,7 @@
 {
   "season": "2025-26",
   "source": "ESPN API",
-  "updated_at": "2026-03-25T07:50:17.349471",
+  "updated_at": "2026-04-26T08:14:22.103283",
   "games": [
     {
       "date": "2025-10-02",
@@ -18201,6 +18201,62 @@
       "team_id": 23,
       "team_abbr": "SAC",
       "matchup": "SAC @ POR",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-14",
+      "team_id": 30,
+      "team_abbr": "CHA",
+      "matchup": "CHA vs. MIA",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-14",
+      "team_id": 14,
+      "team_abbr": "MIA",
+      "matchup": "MIA @ CHA",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-14",
+      "team_id": 21,
+      "team_abbr": "PHX",
+      "matchup": "PHX vs. POR",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-14",
+      "team_id": 22,
+      "team_abbr": "POR",
+      "matchup": "POR @ PHX",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-15",
+      "team_id": 20,
+      "team_abbr": "PHI",
+      "matchup": "PHI vs. ORL",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-15",
+      "team_id": 19,
+      "team_abbr": "ORL",
+      "matchup": "ORL @ PHI",
+      "is_home": false
+    },
+    {
+      "date": "2026-04-15",
+      "team_id": 12,
+      "team_abbr": "LAC",
+      "matchup": "LAC vs. GS",
+      "is_home": true
+    },
+    {
+      "date": "2026-04-15",
+      "team_id": 9,
+      "team_abbr": "GS",
+      "matchup": "GS @ LAC",
       "is_home": false
     }
   ]
